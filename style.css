@@ -1,0 +1,34 @@
+body {
+    background-color:  #4D4DFF;
+    font-family: 'Roboto Mono';font-size: 22px;
+}
+  h1 {
+    color: #FFC059;
+  }
+  p {
+    color: #B38947;
+  }
+  h3{
+    color: #B38947;
+  }
+  img {
+    border-radius: 50%;
+  }
+
+  .center {
+    margin: auto;
+    width: 50%;
+    padding: 5x;
+  }
+
+  .centerNoBack {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
+  h4{
+    color: #B38947;
+
+  }
+
+  
